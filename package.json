@@ -4,7 +4,7 @@
     "description": "Nord Light color theme",
     "repository": "https://github.com/huytd/vscode-nord-light",
     "icon": "icon.png",
-    "version": "0.0.2",
+    "version": "0.1.0",
     "publisher": "huytd",
     "engines": {
         "vscode": "^1.15.0"
@@ -18,6 +18,11 @@
                 "label": "Nord Light",
                 "uiTheme": "vs",
                 "path": "./themes/Nord Light-color-theme.json"
+            },
+            {
+                "label": "Nord Light Brighter",
+                "uiTheme": "vs",
+                "path": "./themes/Nord Light Brighter-color-theme.json"
             }
         ]
     }
