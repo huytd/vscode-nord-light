@@ -756,7 +756,8 @@
                 "keyword",
                 "storage",
                 "entity",
-                "storage.type"
+                "storage.type",
+                "entity.name.type.implementation"
             ],
             "settings": {
                 "foreground": "#304B44"
@@ -778,6 +779,18 @@
             "settings": {
                 "foreground": "#50750E",
                 "fontStyle": ""
+            }
+        },
+        {
+            "scope": [
+                "keyword",
+                "storage",
+                "constant.language",
+                "support.class.builtin",
+                "entity.name.tag.html",
+            ],
+            "settings": {
+                "fontStyle": "bold"
             }
         }
     ]
